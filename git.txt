@@ -1,0 +1,31 @@
+git configure
+-------------
+
+git config --global user.name "username"
+git config --global user.email "email"
+
+git commands
+------------
+
+git init
+git add .
+git remote add origin "url"
+git commit -m "message"
+git push -u origun master
+
+clonning
+--------
+
+git clone "user's url"
+
+creating branch
+---------------
+
+git branch branch_name
+git checkout branch_name
+
+pull
+----
+
+cd project_name_or_folder
+git pull "user's url"
